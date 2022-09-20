@@ -111,7 +111,7 @@ MinIO 部署开始使用默认的 root 凭据 `minioadmin:minioadmin`。您可�
 要在 64 位 Windows 主机上运行 MinIO，请从以下 URL 下载 MinIO 可执行文件：
 
 ```sh
-http://dl.minio.org.cn/server/minio/release/windows-amd64/minio.exe
+https://dl.min.io/server/minio/release/windows-amd64/minio.exe
 ```
 
 使用以下命令在 Windows 主机上运行独立的 MinIO 服务器。 将“D:\”替换为您希望 MinIO 存储数据的驱动器或目录的路径。 您必须将终端或 powershell 目录更改为 ``minio.exe`` 可执行文件的位置，*或*将该目录的路径添加到系统 ``$PATH`` 中：
